@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/000genie" target="blank"><img src="https://img.shields.io/twitter/follow/000genie?logo=twitter&style=for-the-badge" alt="000genie" /></a> </p>
 
-- 🔭 I’m currently working on **being back on track on web development**
+- 🔭 I’m currently working on **being back on track in the tech world**
 
 - 📫 How to reach me **sabejongenediane@gmail.com**
 
